@@ -1,0 +1,6 @@
+For i = 0 To 4 step 1
+    Turtle.Show()
+    Turtle.Speed = 100
+    Turtle.Move(100)
+    Turtle.Turn(145)
+EndFor
