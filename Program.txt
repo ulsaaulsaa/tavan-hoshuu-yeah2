@@ -1,0 +1,4 @@
+For i = 1 To 100 step 2
+    sum = sum + i
+    TextWindow.WriteLine(sum)
+EndFor
